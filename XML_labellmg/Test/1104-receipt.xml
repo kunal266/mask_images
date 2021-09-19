@@ -1,0 +1,26 @@
+<annotation>
+  <folder>large-receipt-image-dataset-SRD (2)</folder>
+  <filename>1104-receipt</filename>
+  <path>E:\codingfolder\Masking_Images\large-receipt-image-dataset-SRD (2)\1104-receipt.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>750</width>
+    <height>1000</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>receipt</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>118</xmin>
+      <ymin>57</ymin>
+      <xmax>658</xmax>
+      <ymax>969</ymax>
+    </bndbox>
+  </object>
+</annotation>
